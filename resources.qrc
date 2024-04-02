@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/questionmark.ico</file>
+        <file>icons/calculator.png</file>
+        <file>icons/cross.png</file>
+        <file>icons/minus.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/slash.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>music/button.mp3</file>
+    </qresource>
+</RCC>
